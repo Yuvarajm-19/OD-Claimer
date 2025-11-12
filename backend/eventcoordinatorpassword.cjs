@@ -7,7 +7,7 @@ const path = require('path');
 const fs = require('fs'); // Import fs for file deletion
 
 // MongoDB connection string
-const uri = 'mongodb+srv://ragavr33:rudu007@student.mrg3e.mongodb.net/ODClaimerDB?retryWrites=true&w=majority';
+const uri = 'mongodb+srv://kenvortex19_db_user:1234@cluster0.vh06fcu.mongodb.net/';
 const app = express();
 const port = 4000;
 
